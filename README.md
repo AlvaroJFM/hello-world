@@ -35,9 +35,9 @@ para referirme a este tema cito:
 >Los sistemas de este tipo son indivisibles
 
 ####list
-*tarea1
-*tarea2
-*tarea3
+* tarea1
+* tarea2
+* tarea3
 
 1. Crack three eggs over a bowl
 2. Pour a gallon of milk into the bowl
